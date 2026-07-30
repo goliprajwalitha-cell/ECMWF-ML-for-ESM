@@ -1,5 +1,5 @@
 # ECMWF-ML-for-ESM
-JupyterNotebooks from Course2: ‘Machine Learning for Earth Systems Modelling’ by ECMWF
+Worked JupyterNotebooks from Course2: ‘Machine Learning for Earth Systems Modelling’ by ECMWF
 
 The tutorials that were worked on during the 
 ‘Machine Learning for Earth Systems Modelling: Architectures, Data, and Prediction’ course by ECMWF.
